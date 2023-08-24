@@ -1,5 +1,3 @@
-Influencer Marketing and Campaign Management
-================================================================================================================
 
 AI-based social media marketing offers a range of techniques and strategies for businesses to effectively engage with customers and build brand awareness. In this chapter, we will explore two popular strategies: influencer marketing and campaign management.
 

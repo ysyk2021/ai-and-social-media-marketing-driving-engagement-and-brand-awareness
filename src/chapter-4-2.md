@@ -1,5 +1,3 @@
-Social Media Listening and Sentiment Analysis
-===============================================================================================================
 
 Social media has become a vital tool for businesses to connect with their customers and build brand awareness. However, with so much noise on social media, it can be difficult for businesses to keep track of what their customers are saying about them. This is where social media listening and sentiment analysis come in - AI-powered tools that allow businesses to monitor and analyze customer conversations on social media.
 

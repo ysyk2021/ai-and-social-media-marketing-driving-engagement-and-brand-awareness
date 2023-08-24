@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and their Applications in Social Media Marketing
-=============================================================================================================================================
 
 Artificial intelligence (AI) technologies are being utilized in social media marketing to improve efficiency, drive engagement, and enhance the customer experience. In this chapter, we will explore the different types of AI and their applications in social media marketing.
 

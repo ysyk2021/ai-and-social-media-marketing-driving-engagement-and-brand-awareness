@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Social Media Marketing
-===================================================================================================================
 
 Artificial intelligence (AI) technologies have been utilized in social media marketing by businesses of all sizes. In this chapter, we will explore case studies that demonstrate the effective use of AI in social media marketing.
 

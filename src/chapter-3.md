@@ -1,5 +1,3 @@
-Artificial Intelligence in Social Media Marketing
-=================================================
 
 Artificial intelligence (AI) is transforming the way businesses approach social media marketing. AI-powered tools can help businesses analyze customer data, create personalized content, and automate tasks to improve efficiency and effectiveness. In this chapter, we will explore the types of AI used in social media marketing, their advantages and limitations, and provide case studies on their use.
 

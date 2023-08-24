@@ -1,5 +1,3 @@
-Objectives of the Book
-===========================================================
 
 The objective of this book is to explore the applications of artificial intelligence (AI) in social media marketing and how it can be utilized to drive engagement and brand awareness. In this book, we will cover the following topics:
 

@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Social Media Marketing
-======================================================================================================================
 
 Artificial intelligence (AI) has become an essential component of social media marketing, providing businesses with a range of tools to automate tasks, analyze data, and engage with customers. However, there are also limitations to the use of AI in social media marketing. In this chapter, we will explore the advantages and limitations of AI in social media marketing.
 

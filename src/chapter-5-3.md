@@ -1,5 +1,3 @@
-Dynamic Pricing and Promotion
-=================================================================================================
 
 Artificial intelligence (AI) has revolutionized the way businesses approach social media marketing. One of the most exciting ways that AI is being used in marketing is through dynamic pricing and promotion - a technique that allows businesses to adjust prices and promotions in real-time based on customer behavior.
 

@@ -1,6 +1,3 @@
-# Traditional Approaches to Marketing
-
-## Introduction
 
 Social media marketing has gained immense popularity over the years, with brands and businesses leveraging various platforms to drive engagement and increase brand awareness. However, before we delve into the nuances of social media marketing, it's important to understand its roots in traditional marketing.
 

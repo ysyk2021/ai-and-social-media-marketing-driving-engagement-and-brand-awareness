@@ -1,5 +1,3 @@
-Future Directions and Challenges
-=========================================
 
 Artificial intelligence (AI) technologies are rapidly evolving and changing the landscape of social media marketing. In this chapter, we will explore emerging trends and technologies, opportunities and challenges in scaling up AI-based social media marketing, and implications for the future of marketing.
 

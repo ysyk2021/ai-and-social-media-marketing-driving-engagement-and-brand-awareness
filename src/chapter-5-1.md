@@ -1,5 +1,3 @@
-Overview of AI-Based Social Media Marketing Techniques and Strategies
-================================================================================================================================
 
 Artificial intelligence (AI) is transforming the way businesses approach social media marketing. AI-powered tools can help businesses analyze customer data, create personalized content, and automate tasks to improve efficiency and effectiveness. In this chapter, we will provide an overview of AI-based social media marketing techniques and strategies.
 

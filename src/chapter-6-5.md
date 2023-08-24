@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-==================================================================================================
 
 Artificial intelligence (AI) technologies can be implemented in various business models to improve cost-effectiveness in social media marketing. In this chapter, we will explore how businesses can implement AI-based social media marketing in their business models to maximize cost-effectiveness.
 

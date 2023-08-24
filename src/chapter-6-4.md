@@ -1,5 +1,3 @@
-Customer Education and Engagement
-=============================================================================================
 
 Artificial intelligence (AI) technologies can be utilized to drive customer education and engagement in social media marketing. In this chapter, we will explore how AI-based social media marketing can be implemented to educate and engage customers.
 

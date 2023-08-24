@@ -1,5 +1,3 @@
-Regulatory and Ethical Considerations
-=================================================================================================
 
 The use of artificial intelligence (AI) in social media marketing has shown great promise for driving engagement and brand awareness. However, the implementation of AI-based social media marketing must be done with regulatory and ethical considerations in mind. In this chapter, we will explore the regulatory and ethical considerations that must be addressed when implementing AI-based social media marketing.
 

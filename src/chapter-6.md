@@ -1,5 +1,3 @@
-Implementation of AI-Based Social Media Marketing
-==========================================================
 
 Implementing AI-based social media marketing involves integrating AI-powered tools into existing marketing strategies and processes. In this chapter, we will explore the various considerations involved in implementing AI-based social media marketing.
 

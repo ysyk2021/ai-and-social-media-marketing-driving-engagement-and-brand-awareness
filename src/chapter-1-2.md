@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and its Applications in Marketing
-============================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving technology with numerous applications in marketing. In this chapter, we will provide an overview of AI and its applications in marketing.
 

@@ -1,5 +1,3 @@
-AI-Based Social Media Marketing Techniques and Strategies
-==================================================================
 
 Artificial intelligence (AI) technologies can be utilized to improve social media marketing techniques and strategies. In this chapter, we will explore some of the most effective AI-based social media marketing techniques and strategies.
 
