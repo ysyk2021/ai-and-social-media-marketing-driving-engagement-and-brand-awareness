@@ -10,3 +10,7 @@ Each chapter will provide a comprehensive overview of the topic, including real-
 Social media marketing is constantly evolving, and AI is at the forefront of this evolution. This book will provide valuable insights and knowledge for marketers, business owners, and anyone interested in staying ahead of the curve in the fast-paced world of social media marketing.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
